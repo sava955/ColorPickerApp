@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "create-react-native-app",
-    "slug": "create-react-native-app",
+    "name": "color-picker-app",
+    "slug": "ccolor-picker-app",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
